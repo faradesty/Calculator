@@ -46,9 +46,9 @@ button {
     width: 25%;
     background-color: gray;
 }
-button:hover{
-    background-color: darkgray;
-}
 .operator:hover, .equal-Sign:hover{
     background-color: darkorange;
+}
+button:hover, .percentage:hover{
+    background-color: darkgray;
 }
